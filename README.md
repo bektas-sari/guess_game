@@ -81,6 +81,3 @@ Academia: [Bektas Sari](https://independent.academia.edu/bektassari) <br>
 
 This project is licensed under the MIT License 
 
-
-
-A minimal yet engaging color guessing game built with Flutter. Guess the hidden color—Red or Blue—in 10 rounds and challenge your intuition.
