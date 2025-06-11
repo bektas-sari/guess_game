@@ -1,4 +1,4 @@
-# 🎯 guess\_game
+# 🎯 Guess Game (Flutter APP)
 
 A simple and fun color guessing game built with Flutter.
 Test your intuition by guessing whether the hidden color is **Red** or **Blue**.
