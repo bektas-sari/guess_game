@@ -6,12 +6,6 @@ Play through 10 rounds and see how many you can get right!
 
 ---
 
-## 🖼️ Preview
-
-<img src="https://github.com/yourusername/guess_game/assets/demo.gif" alt="demo" width="400"/>
-
----
-
 ## 📱 Features
 
 * 🎉 Animated welcome screen
@@ -41,7 +35,7 @@ Play through 10 rounds and see how many you can get right!
 To run this project on your local device:
 
 ```bash
-git clone https://github.com/yourusername/guess_game.git
+git clone https://github.com/bektas-sari/guess_game.git
 cd guess_game
 flutter pub get
 flutter run
@@ -60,14 +54,6 @@ guess_game/
 ├── assets/             # Optional: for images, sounds
 └── pubspec.yaml        # Flutter project config
 ```
-
----
-
-## 📸 Screenshots
-
-| Welcome                         | Game Screen                  | Result                          | Game Over                    |
-| ------------------------------- | ---------------------------- | ------------------------------- | ---------------------------- |
-| ![](assets/screens/welcome.png) | ![](assets/screens/game.png) | ![](assets/screens/correct.png) | ![](assets/screens/over.png) |
 
 ---
 
